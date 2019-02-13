@@ -36,7 +36,6 @@ We learned a ton of Python to create a statistical model to predict the future p
 3.	TECHNOLOGIES AND REFERENCES 
 Websites, Softwares and Open Source Libraries have all played a major role in the making of this project report, especially the following ones:
 o	Anaconda	o	Numpy
-
 o	Jupyter	o	Matplotlib
 o	Python 3.7	o	Pandas
 o	Data Visualisation	o	Datetime
