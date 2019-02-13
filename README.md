@@ -26,6 +26,7 @@ TABLE OF CONTENTS
 4.	Project Outcomes
 
 
+
 1.	PROJECT IDEA
 We have designed a project to predict the future stock price using an already available dataset with the help of machine learning.   
 
